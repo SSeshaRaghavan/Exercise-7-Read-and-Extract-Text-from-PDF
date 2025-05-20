@@ -1,9 +1,8 @@
 # Exercise-7-Read-and-Extract-Text-from-PDF
 
-~~~
-Name : M.JohnPall 
-Reg.No : 212224040140 
-~~~
+
+Name : S  Sesha Raghavan 
+Reg.No : 212224040302 
 
 ## Aim
 To create a UiPath workflow that reads and extracts text from a PDF file and saves the extracted content into a plain text file.
